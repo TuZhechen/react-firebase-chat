@@ -1,3 +1,7 @@
-# Lama Dev Chat App Starter template
+# Paul Chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is adapted from Lama Dev `https://github.com/safak/react-firebase-chat/tree/completed`
+
+To initialize, you have to create a `.env` and provide a `VITE_API_KEY`:
+
+`VITE_FIREBASE_API_KEY=your-api-key-here`
